@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Muhammad Irtaza, Game Developer, Launches Site"
-date: 2021-07-03
+title: "Murtaza Naqvi, Marketing Expert, Launches Site"
+date: 2021-07-04
 ---
 
 Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts.
